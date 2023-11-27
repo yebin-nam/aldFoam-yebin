@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "myIcoFoam.C": "cpp"
+        "myIcoFoam.C": "cpp",
+        "rhoPimpleFoam.C": "cpp",
+        "rhoPimpleAldFoam.C": "cpp",
+        "aldFoam.C": "cpp"
     }
 }
