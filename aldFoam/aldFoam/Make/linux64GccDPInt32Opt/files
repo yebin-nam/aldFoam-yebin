@@ -1,3 +1,0 @@
-SOURCE += aldFoam.C
-
-EXE = $(FOAM_USER_APPBIN)/aldFoam
